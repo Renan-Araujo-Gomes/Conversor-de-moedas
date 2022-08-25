@@ -1,0 +1,45 @@
+img{
+    width:70%;
+
+}
+body{
+    text-align: center;
+    background-color: 
+    #114d64;
+}
+h1{
+    color:rgb(219, 202, 180);
+    font-size: 50px;
+
+}
+input{
+    width: 140px;
+    height: 30px;
+}
+#input-real{
+    border: 3px solid rgb(153, 71, 54);
+}
+#input-dolar{
+    border: 3px solid rgb(136, 71, 43);
+
+}
+p{
+    font-weight: bold;
+    font-size: 25px;
+
+}
+button{
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    cursor: pointer;
+    border: 3px solid #286e8a;
+    border-radius: 10px;
+    background-color:#114d64;
+    color:antiquewhite;
+
+}
+button:hover{
+    color: rgb(241, 248, 248);
+    background-color: rgb(66, 34, 12);
+}
